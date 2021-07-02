@@ -31,7 +31,8 @@ $ git clone https://github.com/Lyppeh/StatsPreviewCard.git
 $ git clone git@github.com:Lyppeh/StatsPreviewCard.git
 ```
 
-### 💻 desenvolvidor por:
+### 💻 desenvolvido por:
+
 ✔ Fellype Nascimento
 
 [![Github Bagde](https://img.shields.io/badge/GitHub-100000?style=flat-square-border&logo=github&logoColor=white)](https://github.com/Lyppeh)
